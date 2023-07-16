@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Big Data Tools for ML, Deep Learning, NN, and TensorFlow, Mobile Apps Development, Natural Natural Language Processing and Recommender Systems (NLPR).**
 
-- 👯 I have worked on the following AI Models: [SVM Classifier, Logistic Regression, Linear Regression, Naive Bayes, SVC, RandomForestClassifier,](https://github.com/Dhrumit1314/AI-Models)
+- 👯 I have worked on the following AI Models: [SVM Classifier, Logistic Regression, Linear Regression, Naive Bayes, SVC, RandomForestClassifier](https://github.com/Dhrumit1314/AI-Models)
 
 - 🤝 I’m have also worked with [ChatGPT clone project. Additionally with Resume Builder into it.](https://github.com/Dhrumit1314/ChatGPT_Clone)
 
