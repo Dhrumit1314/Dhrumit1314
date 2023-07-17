@@ -10,7 +10,7 @@
 
 - 👯 I have worked on the following AI Models: [SVM Classifier, Logistic Regression, Linear Regression, Naive Bayes, SVC, RandomForestClassifier](https://github.com/Dhrumit1314/AI-Models)
 
-- 🤝 I’m have also worked with [ChatGPT clone project. Additionally with Resume Builder into it.](https://github.com/Dhrumit1314/ChatGPT_Clone)
+- 🤝 I’m have also worked with [ChatGPT clone project, additionally with Resume Builder into it.](https://github.com/Dhrumit1314/ChatGPT_Clone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhrumit1314](https://github.com/Dhrumit1314)
 
