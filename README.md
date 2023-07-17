@@ -12,8 +12,7 @@
 
 - 🤝 I’m have also worked with [ChatGPT clone project and integrating Resume Builder into it.](https://github.com/Dhrumit1314/ChatGPT_Clone)
 
-- 👨‍💻 All of my projects are available at [Github Repositories]([https://github.com/Dhrumit1314])
-
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Dhrumit1314)
 - 📫 How to reach me **dhrumit.patel1677@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and always ready for anything!**
