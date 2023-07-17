@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhrumit Patel</h1>
-<h3 align="center">A Software Engineering - Artificial Intelligence Student. Innovation Developer helping companies automate tasks, develop new features, and improve performance through the application of programming languages such as Python and JavaScript. Ability to fix bugs and issues with my problem-thinking skills and helping companies to stay ahead of the curve by identifying emerging trends and technologies with my forward-thinking abilities.</h3>
+<h3 align="center">A Software Engineering - Artificial Intelligence Student.</h3>
+<h4 align="center">Innovation Developer helping companies automate tasks, develop new features, and improve performance through the application of programming languages such as Python and JavaScript. Ability to fix bugs and issues with my problem-thinking skills and helping companies to stay ahead of the curve by identifying emerging trends and technologies with my forward-thinking abilities.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumit1314&label=Profile%20views&color=0e75b6&style=flat" alt="dhrumit1314" /> </p>
 
