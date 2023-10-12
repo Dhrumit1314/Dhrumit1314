@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DALLE-2 Model.**
 
-- 🌱 I’m currently learning **Big Data Tools for ML, Deep Learning, NN, TensorFlow, Mobile Apps Development, and Natural Natural Language Processing and Recommender Systems (NLPR).**
+- 🌱 I’m currently learning **Big Data Tools for ML, Deep Learning, NN, TensorFlow, Mobile Apps Development, and Natural Language Processing and Recommender Systems (NLPR).**
 
 - 👯 I have worked on the following AI Models: [SVM Classifier, Logistic Regression, Linear Regression, Naive Bayes, SVC, RandomForestClassifier](https://github.com/Dhrumit1314/AI-Models)
 
