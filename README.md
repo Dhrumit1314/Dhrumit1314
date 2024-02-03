@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/dhrumit-patel-857782220/
 </p>
-<p align="left"> [Dhrumit Patel](https://www.dhrumitpatel.com/)
+<p align="left"> https://www.dhrumitpatel.com/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
