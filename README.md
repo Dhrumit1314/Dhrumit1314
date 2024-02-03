@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumit1314&label=Profile%20views&color=0e75b6&style=flat" alt="dhrumit1314" /> </p>
 
-- 🔭 I’m currently working on **DALLE-2 Model.**
+- 🔭 I’m currently working on **NLP Project, Computer Vision, Cloud ML Project.**
 
-- 🌱 I’m currently learning **Big Data Tools for ML, Deep Learning, NN, TensorFlow, Mobile Apps Development, and Natural Language Processing and Recommender Systems (NLPR).**
+- 🌱 I’m currently learning **Big Data Tools for ML, Deep Learning, Neural Network, Cloud Machine Learning, Deep Learning, Computer Vision, TensorFlow, Mobile Apps Development, and Natural Language Processing and Recommender Systems (NLPR).**
 
 - 👯 I have worked on the following AI Models: [SVM Classifier, Logistic Regression, Linear Regression, Naive Bayes, SVC, RandomForestClassifier](https://github.com/Dhrumit1314/AI-Models)
 
 - 🤝 I’m have also worked with [ChatGPT clone project and integrating Resume Builder into it.](https://github.com/Dhrumit1314/ChatGPT_Clone)
+- 🤝 I’m have also worked with [Fatal or Non-fatal accident prediction using KSI dataset](https://github.com/Dhrumit1314/KSI_Supervised_Learning)
+- 🤝 I’m have also worked with [Student Success Prediction after getting first year performance data.]([https://github.com/Dhrumit1314/ChatGPT_Clone](https://github.com/Dhrumit1314/NN_Student_Success_Project))
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Dhrumit1314)
 - 📫 How to reach me **dhrumit.patel1677@gmail.com**
