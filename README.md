@@ -12,7 +12,7 @@
 
 - 🤝 I’m have also worked with [ChatGPT clone project and integrating Resume Builder into it.](https://github.com/Dhrumit1314/ChatGPT_Clone)
 - 🤝 I’m have also worked with [Fatal or Non-fatal accident prediction using KSI dataset](https://github.com/Dhrumit1314/KSI_Supervised_Learning)
-- 🤝 I’m have also worked with [Student Success Prediction after getting first year performance data.]([https://github.com/Dhrumit1314/ChatGPT_Clone](https://github.com/Dhrumit1314/NN_Student_Success_Project))
+- 🤝 I’m have also worked with [Student Success Prediction after getting first year performance data.](https://github.com/Dhrumit1314/NN_Student_Success_Project)
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Dhrumit1314)
 - 📫 How to reach me **dhrumit.patel1677@gmail.com**
