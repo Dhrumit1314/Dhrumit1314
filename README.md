@@ -20,8 +20,10 @@
 - ⚡ Fun fact **I think I am funny and always ready for anything!**
 
 <h3 align="left">Connect with me:</h3>
-[Dhrumit Patel - LinkedIn](https://www.linkedin.com/in/dhrumit-patel-857782220/)
-[Dhrumit Patel - Portfolio](https://www.dhrumitpatel.com/)
+<p align="left">
+  [Dhrumit Patel - LinkedIn](https://www.linkedin.com/in/dhrumit-patel-857782220/) <br>
+  [Dhrumit Patel - Portfolio](https://www.dhrumitpatel.com/)
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
