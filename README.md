@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [Dhrumit Patel - LinkedIn](https://www.linkedin.com/in/dhrumit-patel-857782220/) <br>
-  [Dhrumit Patel - Portfolio](https://www.dhrumitpatel.com/)
+  https://www.linkedin.com/in/dhrumit-patel-857782220/<br>
+  https://www.dhrumitpatel.com/
 </p>
 
 
