@@ -15,7 +15,7 @@
 - 🤝 I’m have also worked with [Student Success Prediction after getting first year performance data.](https://github.com/Dhrumit1314/NN_Student_Success_Project)
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Dhrumit1314)
-- 📫 How to reach me **dhrumit.patel1677@gmail.com**
+- 📫 How to reach me **dhrumitpatel.ai@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and always ready for anything!**
 
