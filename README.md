@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  https://ca.linkedin.com/in/dhrumitpatelds<br>
+  https://www.linkedin.com/in/dhrumitpatelds/<br>
   https://www.dhrumitpatel.com/
 </p>
 
